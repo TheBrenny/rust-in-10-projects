@@ -8,7 +8,7 @@ Then all of a sudden, I stumbled upon [this article by Fasterthanlime](https://f
 
 And what better way to start learning a new language than to rewrite some other projects into the new language?! I have [soooo many Javascript projects](https://github.com/TheBrenny?tab=repositories&q=&type=source&language=javascript&sort=name) that I can convert, so my plan is to do that, and hopefully get some useful ports made in the process. Here are the projects I plan on porting (and what they aim to achieve), in order from what I expect to be easiest to hardest
 
-1. https://github.com/TheBrenny/node-alias-tools ❌
+1. https://github.com/TheBrenny/node-alias-tools ⏺️
    - CLI Apps, Mutables, Anon Funcs, Loops, (basics)
 2. https://github.com/TheBrenny/big-kahuna ❌
    - Library, Argument parsing
