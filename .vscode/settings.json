@@ -2,5 +2,6 @@
     "rust-analyzer.linkedProjects": [
         "01-alias-tools\\gitup\\Cargo.toml",
         "01-alias-tools\\token\\Cargo.toml",
+        "01-alias-tools\\sizeof\\Cargo.toml",
     ],
 }

@@ -71,7 +71,7 @@ fn main() {
         } else if let Ok(num) = arg.parse::<usize>() {
             // The above is a neat feature of Rust. It's called
             // pattern matching, and it tries to match the result
-            // of a function call to the left hand side.
+            // of a function call| to the left hand side.
             // If it doesn't work, then it skips the conditional block
             println!("{}", getRandomString(num, Charset::ALL));
         } else {
